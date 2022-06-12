@@ -26,6 +26,7 @@ body:
     validations:
       required: true
   - type: textarea
+    id: current-behavior
     attributes:
       label: 预期外的结果
       description: |
@@ -66,6 +67,7 @@ body:
     validations:
       required: true
   - type: textarea
+    id: other-msg
     attributes:
       label: 是否还有其他可以辅助定位问题的信息？比如数据库、浏览器、goInception等
       description: |
