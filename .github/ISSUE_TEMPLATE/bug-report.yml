@@ -8,6 +8,7 @@ body:
       value: |
         感谢你花费时间来报告这个问题，在提交前请先查阅 [WIKI](https://github.com/hhyo/archery/wiki) | [FAQ](https://github.com/hhyo/archery/wiki/FAQ) 等文档，确保这是一个需要修复的问题🐛。如果是对于使用方法的咨询🤔🙏，或者你有好的想法和建议💡，请通过[Discussions](https://github.com/hhyo/Archery/discussions)来发布，再次感谢你对Archery的贡献 🎉🎉🎉
   - type: checkboxes
+    id: search-issues
     attributes:
       label: 问题是否已经被报告?
       description: 请适当进行搜索查看是否已存在类似的报告
