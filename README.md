@@ -42,7 +42,7 @@ _____________|','   ///_/-------------/   |
 
 > 🏆 126 Contributions in the Year 2022
  > 
-> 📦 20.3 kB Used in Github's Storage 
+> 📦 20.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,5 +91,5 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 28/07/2022
+ Last Updated on 29/07/2022
 <!--END_SECTION:waka-->
